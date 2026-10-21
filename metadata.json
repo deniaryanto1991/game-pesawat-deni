@@ -1,0 +1,6 @@
+{
+  "name": "AeroQuiz: Balapan Pesawat Cerdas",
+  "description": "Game edukasi balapan pesawat interaktif dengan menjawab kuis pilihan ganda. Salah menjawab otomatis mundur ke soal sebelumnya!",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
